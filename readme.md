@@ -2,7 +2,7 @@
 
 A canvas matrix implementation that mimics what the canvas matrix functions do.
 
-```rs
+```rust
 use matrix_2d::Matrix2D;
 
 fn main() {
