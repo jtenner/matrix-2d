@@ -1,6 +1,6 @@
 # matrix_2d
 
-A canvas matrix implementation that mimics what the canvas matrix functions do.
+A matrix implementation that mimics what the canvas matrix functions do on html5 canvas.
 
 ```rust
 use matrix_2d::Matrix2D;
